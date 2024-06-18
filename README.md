@@ -10,7 +10,7 @@
 
 ### 기술 스택
 
-- **언어:** Java, SQL, Python
-- **프레임워크/라이브러리:** Spring Boot, Hibernate, Apache Karaf
+- **언어:** Java, SQL, Python, Javascript, PHP
+- **프레임워크/라이브러리:** Spring Boot, Hibernate, Express.js, NEXT.js
 - **데이터베이스:** PostgreSQL, MySQL
-- **도구/플랫폼:** AWS (EC2, S3), Docker, Git
+- **도구/플랫폼:** Linux, AWS (EC2, S3), Docker, Git, Opentelemtry, Prometheus, Loki, Tempo, Grafana
